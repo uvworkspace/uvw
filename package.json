@@ -1,0 +1,9 @@
+{
+  "name": "uvw",
+  "version": "0.0.1",
+  "description": "Some node.js utilities",
+  "main": "index.js",
+  "repository": "https://github.com/uvworkspace/uvw",
+  "author": "uvworkspace <uvw@mytraces.net>",
+  "license": "MIT"
+}
