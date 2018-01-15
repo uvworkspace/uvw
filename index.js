@@ -1,5 +1,5 @@
-'use strict'
+'use strict';
 
-var utils = require('uvwlib')
+var utils = require('uvwlib');
 
-module.exports = utils.assign({}, utils)
+module.exports = utils.assign({}, utils);
